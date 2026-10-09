@@ -1,0 +1,13 @@
+[
+  {"id":1,"nombre": "Cenote Azul", "categoria":"naturaleza", "precio":350,"cupo": 15, "icono":"🌊"},
+  {"id":2,"nombre": "Zona arqueológica", "categoria":"cultura", "precio":480,"cupo": 20, "icono":"🏛️"},
+  {"id":3,"nombre": "Ruta en tirolesa", "categoria": "aventura", "precio": 750, "cupo": 10, "icono":"🧗"},
+  {"id":4,"nombre": "Kayak en manglar", "categoria": "aventura", "precio": 680, "cupo":8, "icono":"🛶"},
+  {"id":5,"nombre": "Ruta de sabores mayas", "categoria":"gastronomia", "precio":620, "cupo":12,"icono":"🌮"},
+  {"id":6,"nombre": "Santuario de tortugas", "categoria": "naturaleza", "precio":420, "cupo":18,"icono":"🐢"},
+{"id":7,"nombre": "Tour de Playas", "categoria": "naturaleza", "precio":820, "cupo":12,"icono":"☀️"},
+{"id":8,"nombre": "Parque xplor", "categoria": "aventura", "precio":1020, "cupo":15,"icono":"🔥"},
+{"id":9,"nombre": "Clubs de noche", "categoria": "Diversión", "precio":1500, "cupo":10,"icono":"🥳"},
+{"id":10,"nombre": "Museos ", "categoria": "cultura", "precio":130, "cupo":20,"icono":"🏯"}
+
+]
